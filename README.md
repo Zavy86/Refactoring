@@ -1,4 +1,4 @@
-# Refactoring (Pre-Repository)
+# Refactoring
 
 Questo repository vuole essere un compendio dei concetti illustrati nel libro dedicato al refactoring scritto da
 Marting Fowler. Non è da considerarsi completo ed esaustivo, per una trattazione completa dell'argomento ti invito
@@ -18,3 +18,8 @@ banale e il codice risultante potrebbe avere altri problemi e richiedere altre r
 
 I nomi delle rifattorizzazioni sono stati lasciati in inglese in modo da facilitare la ricerca di eventuale ulteriore
 documentazione nel libro cartaceo oppure online.
+
+### Principali
+
+* [Extract Function](/extract_function/)
+* [Inline Function](/inline_function/)
