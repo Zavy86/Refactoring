@@ -5,6 +5,7 @@ Marting Fowler. Non è da considerarsi completo ed esaustivo, per una trattazion
 ad acquistare e leggere questo ottimo libro in modo da poter comprendere a pieno questa "arte".
 
 > Libro ufficiale di **Martin Fowler** su Amazon:
+> 
 > * [Refactoring (originale, inglese)](https://tmtru.zavy.im/y25)
 > * [L'arte del refactoring (traduzione, italiano)](https://tmtru.zavy.im/v47)
 
@@ -13,6 +14,14 @@ spesso. Tuttavia i concetti possono (e dovrebbero) essere applicati a qualunque 
 
 Ogni esempio è stato scritto al fine d'illustrare la rifattorizzazione in oggetto, il codice sarà molte volte
 banale e il codice risultante potrebbe avere altri problemi e richiedere altre rifattorizzazioni.
+
+## Video
+
+A corredo di questo repository è disponibile su YouTube una playlist in cui vengono illustrate passo passo tutte le rifattorizzazioni.
+
+[![Playlist sul Refactoring su YouTube](https://raw.githubusercontent.com/Zavy86/Refactoring/master/cover.jpg)](https://tmtru.zavy.im/ypr "Guarda la Playlist sul Refactoring su YouTube")
+
+La trovi a questo indirizzo: [https://tmtru.zavy.im/ypr](https://tmtru.zavy.im/ypr)
 
 ## Rifattorizzazioni
 
